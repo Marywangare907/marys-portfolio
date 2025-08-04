@@ -1,6 +1,6 @@
-Viw it Live (http://marys-portfolio-zeta.vercel.app/)
-#Features
+View it Live (http://marys-portfolio-zeta.vercel.app/)
 
+#Features
 - Responsive Layout powered by Bootstrap 3
 - Built with w3 validated HTML5 & CSS3
 - Modern Design
