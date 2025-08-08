@@ -50,12 +50,12 @@ const Footer = () => {
             <div className="flex flex-col">
               <h5 className="text-neutral mb-4 text-lg font-medium">Contact Us</h5>
               <a
-                href="mailto:johndoe@gmail.com"
+                href="wangariann930@gmail.com"
                 className="text-tertiary-content hover:text-neutral text-sm font-light transition-colors duration-300">
-                marywan
+                wangariann930@gmail.com
               </a>
               <a
-                href="tel:+92 3123456789"
+                href="tel:+254 702 274 886"
                 className="text-tertiary-content hover:text-neutral text-sm font-light transition-colors duration-300">
                 +254 702 274 886
               </a>
